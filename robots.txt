@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://iexoopheng.thekoracafe.com/sitemap.xml
